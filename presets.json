@@ -1,0 +1,8 @@
+{
+  "talk":    {"key": ["cct", 5600, 80], "left": ["cct", 5600, 45], "right": ["cct", 5600, 45]},
+  "warm":    {"key": ["cct", 4300, 70], "left": ["cct", 3200, 30], "right": ["cct", 3200, 30]},
+  "dark":    {"key": ["cct", 5600, 90], "left": ["cct", 5600, 10], "right": ["cct", 5600, 10]},
+  "brand":   {"key": ["cct", 5600, 80], "left": ["hsi", 180, 100, 60], "right": ["hsi", 180, 100, 60]},
+  "split":   {"key": ["cct", 5600, 80], "left": ["hsi", 220, 100, 70], "right": ["hsi", 320, 100, 70]},
+  "standby": {"key": ["cct", 5600, 20], "left": ["off"], "right": ["off"]}
+}

@@ -1,0 +1,4 @@
+lights.json
+*.log
+__pycache__/
+.venv/

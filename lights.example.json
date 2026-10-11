@@ -1,0 +1,5 @@
+{
+  "key":   {"mac": "AA:BB:CC:DD:EE:01", "model": "MS60C", "code": "20210035", "note": "overhead key"},
+  "left":  {"mac": "AA:BB:CC:DD:EE:02", "model": "MS60C", "code": "20230080", "note": "left backdrop"},
+  "right": {"mac": "AA:BB:CC:DD:EE:03", "model": "MS60C", "code": "20210035", "note": "right backdrop"}
+}
